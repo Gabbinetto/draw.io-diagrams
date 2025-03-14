@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3gT1epxU8pgeMeXcipZ9-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Libreria digitale&lt;/h1&gt;&lt;p&gt;Articolo(titolo,&amp;nbsp;annoPubblicazione, autori, editore, pubblicazione(nome, argomento, responsabile), conferenza(luogo, inizio, fine, struttura, responsabile))&lt;/p&gt;&lt;p&gt;Libro(titolo, annoPubblicazione, autori, editore, diNarrativa, categoria, annoUscita, libreria, audiolibro, collana)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="3gT1epxU8pgeMeXcipZ9-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Libreria digitale&lt;/h1&gt;&lt;p&gt;Articolo(titolo,&amp;nbsp;annoPubblicazione, {autori}, editore, pubblicazione(nome, argomento, responsabile), conferenza(luogo, inizio, fine, struttura, responsabile))&lt;/p&gt;&lt;p&gt;Libro(titolo, annoPubblicazione, {autori}, editore, diNarrativa, categoria, annoUscita, libreria, audiolibro, collana)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="810" height="230" as="geometry" />
         </mxCell>
         <mxCell id="3gT1epxU8pgeMeXcipZ9-15" value="&lt;div&gt;Libro&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
